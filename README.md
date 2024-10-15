@@ -4,13 +4,13 @@ This repository contains a machine learning project focused on predicting loan a
 ## Project Overview
 This project leverages the Playground Series S4E10 dataset from Kaggle, with features such as:
 
-person_age: Age of the applicant.
-person_income: Applicant's income.
-person_home_ownership: Home ownership status (e.g., rent, own).
-person_emp_length: Duration of employment.
-loan_intent: Purpose of the loan (e.g., education, medical).
-loan_amnt: Loan amount.
-And others related to credit history and loan interest rates.
+- person_age: Age of the applicant.
+- person_income: Applicant's income.
+- person_home_ownership: Home ownership status (e.g., rent, own).
+- person_emp_length: Duration of employment.
+- loan_intent: Purpose of the loan (e.g., education, medical).
+- loan_amnt: Loan amount.
+- And others related to credit history and loan interest rates.
 ## Approach
 Two different machine learning models were trained and evaluated:
 
