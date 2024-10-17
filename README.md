@@ -2,7 +2,7 @@
 This repository contains a machine learning project focused on predicting loan approval statuses based on applicant features such as age, income, home ownership, employment length, and other credit-related factors. The goal is to predict whether a loan will be approved (loan_status = 1) or rejected (loan_status = 0).
 
 ## Project Overview
-This project leverages the Playground Series S4E10 dataset from Kaggle, with features such as:
+**This project leverages the Playground Series S4E10 dataset from Kaggle, with features such as:**
 
 - **Person_age:** Age of the applicant.
 - **Person_income:** Applicant's income.
