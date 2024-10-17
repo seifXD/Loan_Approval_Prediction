@@ -12,7 +12,7 @@ This project leverages the Playground Series S4E10 dataset from Kaggle, with fea
 - **Loan_amnt:** Loan amount.
 - And others related to credit history and loan interest rates.
 ## Approach
-Two different machine learning models were trained and evaluated:
+**Two different machine learning models were trained and evaluated:**
 
 - XGBoost - An advanced boosting algorithm known for its speed and accuracy.
 - LightGBM - A gradient boosting framework that is optimized for faster training and low memory usage.
