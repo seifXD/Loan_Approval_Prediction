@@ -23,8 +23,8 @@ Both models were evaluated using the Area Under the ROC Curve (AUC) to determine
 Feature Scaling: A StandardScaler was used to normalize the data.
 Model Evaluation: The models were trained, and predictions were generated based on their respective parameters.
 ## Results
-**Best Model:** The best performing model was Version 1 (regression model), achieving a score of 0.95293 in the AUC evaluation.
-Version 2 (classification model) achieved a lower score of 0.87702, showing that regression worked better for this dataset.
+**Best Model:** The best performing model was **Version 1** (regression model), achieving a score of 0.95293 in the AUC evaluation.\
+**Version 2** (classification model) achieved a lower score of 0.87702, showing that regression worked better for this dataset.
 ## Future Improvements
 Tuning model parameters further to enhance performance.
 Avoiding data leakage during scaling by using pipelines to separate the training and test data preprocessing steps.
